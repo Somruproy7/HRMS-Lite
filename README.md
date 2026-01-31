@@ -2,7 +2,7 @@
 
 A lightweight Human Resource Management System built with React frontend and Django backend with MongoDB database.
 
-Live URL : https://hrms-lite-kappa.vercel.app/
+Live URL : https://myhrms1.netlify.app/
 
 ## Features
 
