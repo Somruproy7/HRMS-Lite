@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_BASE_URL = process.env.REACT_APP_API_URL || 'https://hrms-lite-production-5585.up.railway.app/api';
+// Ensure the API base URL includes /api
+const API_BASE_URL = 'https://hrms-lite-production-5585.up.railway.app/api';
 
 const api = axios.create({
   baseURL: API_BASE_URL,
